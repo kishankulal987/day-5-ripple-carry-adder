@@ -182,7 +182,7 @@ Circuit Diagram
 
 Below is the circuit diagram for the 4-bit Ripple Carry Adder.
 
-![Screenshot 2025-06-06 184307](https://github.com/user-attachments/assets/49c21f43-c799-4427-b100-bab2dd2c7ef5)
+![RCA](https://github.com/user-attachments/assets/9bc41444-7e5e-4bb2-988e-9f539dfb3234)
 
 
 
